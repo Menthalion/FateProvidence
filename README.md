@@ -155,7 +155,7 @@ Identical to their Fate Core counterparts, bonus stunts give a +2 bonus in very 
 
 Character creation and progression is identical to the core Fates, except a new character starts with 2 extra refresh points that need to be spent on stunts / stunt families before play.
 
-Stress boxes used are Fate Condensed style 1 point each stress boxes, with tracks for personal and resource stress.
+Stress boxes used are Fate Condensed style 1 point each stress boxes, with tracks for personal and resource stress governed by the *resist* and *support* skills.
 
 
 
