@@ -34,7 +34,7 @@ Stunt families act as narrative license like aspects, but cannot be invoked. The
 Aspects cannot be used directly as the root of a skill family. This is to prevent aspect loss / change to conflict with stunt development. Aspects are also encouraged to be combinations, while stunt families should be very broad but distinct entities. Stunt families can mirror 
 
 #### Stunt family limit tracker
-Stunt families can have a tracker to limit the use of specific skills belonging to the family. The description of these skills should include the limit cost per use. The limit tracker should contain a description of the consequences when filled up, as well as how it can be replenished.
+Stunt families can have a tracker to limit the use of specific skills belonging to the family. The description of these skills should include the limit cost per use. The limit tracker should contain a size and description of the consequences when this is filled up, as well as how points can be replenished.
 
 ### Broad stunts
 Identical to their Fate Core counterparts, broad stunts give a +1 bonus on actions. They should have a well-defined scope that is significantly smaller than their family. Broad skill bonuses do not stack: an action can only benefit from one broad stunt, and bonuses are overridden by more specialized ones.
