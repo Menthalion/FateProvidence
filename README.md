@@ -44,6 +44,8 @@ Stunts used for adding actions to an existing skill are used far less in F&P tha
 
 Swap stunts could still be practical in picking another (higher rated) skill than the one normally used for an action. Those should have a well-defined scope that is significantly smaller than their family.
 
+### Bonus stunts
+Identical to their Fate Core counterparts, bonus stunts give a +2 bonus in very specific situations.
 
 
 ## Skills
