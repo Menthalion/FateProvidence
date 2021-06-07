@@ -31,7 +31,7 @@ Because of narrative license, there is no direct relationship between stunts and
 ### Stunt families
 Stunt families act as narrative license like aspects, but cannot be invoked. They need to be bought with refresh points; since each stunt family added doubles the narrative license to use all ranked skills, refresh costs doubles as well: 1 for the first, 2 for the second, 4 for the third... 
 
-Aspects cannot be used directly as the root of a skill family. This is to prevent aspect loss / change to conflict with stunt development. Aspects are also encouraged to be combinations, while stunt families should be very broad but distinct entities. Stunt families can mirror 
+Aspects cannot be used directly as the root of a skill family. This is to prevent aspect loss / change to conflict with stunt development. Aspects are also encouraged to be combinations, while stunt families should be very broad but distinct entities. Stunt families can mirror specific sides of aspects though.
 
 #### Stunt family limit tracker
 Stunt families can have a tracker to limit the use of specific skills belonging to the family. The description of these skills should include the limit cost per use. The limit tracker should contain a size and description of the consequences when this is filled up, as well as how points can be replenished.
