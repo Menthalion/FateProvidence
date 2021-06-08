@@ -164,7 +164,7 @@ Every skill in the list has a mirror: one governed by power, one by mastery. If 
 Since skills are tied to specific types of actions, they might turn one roll skill checks in core Fates into consecutive ones / challenges in F&P. Use these as opportunities for narrative instead of extra busywork. If some become routine and lack tension, suggest the player make it a bonus stunt on the higher skill, or offer the table to make it a free swap stunt.
 
 ### Teamwork
-For teamwork to apply, both characters need to have narrative license to use a skill. If the narrative licenses of participants are in opposition *(like a faith healer assisting a surgeon)*, the table needs to make a decision.
+For teamwork to apply, both characters need to have narrative license to use a skill. If the narrative licenses of participants are in opposition *(like a faith healer assisting a surgeon)*, the table decides.
 
 ## Creation and progression
 
