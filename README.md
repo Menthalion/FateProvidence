@@ -74,7 +74,7 @@ Narrative license and stunt families already cover most of these cases, which me
 
 - ###### Defend
 
-  Notice covert 'create an advantage' actions.
+  Notice covert `create an advantage` actions.
 
 ##### Inspect 
 
@@ -118,7 +118,7 @@ Narrative license and stunt families already cover most of these cases, which me
 
 - ###### Overcome
 
-  Introduce an already existing fact / extra from supplies.  Extra or lacking shifts influence price, quality or time.
+  Introduce an already existing target from supplies.  Extra or lacking shifts influence price, quality or time.
 
 - ###### Create an advantage
 
@@ -134,7 +134,7 @@ Narrative license and stunt families already cover most of these cases, which me
 
 - ###### Overcome
 
-  Create a new or original fact / extra. Lacking time and components / conditions influence difficulty.
+  Create a new or original target. Lacking time and components / conditions influence difficulty.
 
   Restore the structure of / remove a condition on a target.
 
