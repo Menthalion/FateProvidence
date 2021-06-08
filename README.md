@@ -41,7 +41,7 @@ F&P uses Fate Core [stunt families](https://fate-srd.com/fate-core/building-stun
 
 Aspects can not be used as a skill family, since aspect loss or change would conflict with stunt development. Aspects are also encouraged to be combinations, while stunt families should be very broad but distinct entities. Stunt families can mirror distinct partial aspects.
 
-> Brian the Monster Slaying Accountant has narrative license to use his skill ranks when Monster Slaying or Accounting. When he wants  to add a *doctoring the books* stunt to his repertoire, he needs to create an Accounting stunt family first.
+> Brian the Monster Slaying Accountant has narrative license to use his skill ranks when Monster Slaying or Accounting. When he wants to add a *doctoring the books* stunt to his repertoire, he needs to create an Accounting or Administration stunt family first.
 
 #### Stunt family limit tracker
 
