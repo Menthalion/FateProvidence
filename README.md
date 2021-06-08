@@ -57,7 +57,7 @@ Rule changing stunts work mostly identical to Fate Condensed except for:
 
 #### Using an action with a skill that isn’t normally used with it
 
-Narrative license and stunt families already cover most of these cases, which means a bonus-granting skill would be superior in specific situations.
+Narrative license and stunt families cover most of these cases, which means a bonus-granting skill or rule-changing swap skill would be more effective.
 
 
 ## Skills
