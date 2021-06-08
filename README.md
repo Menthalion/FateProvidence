@@ -178,7 +178,7 @@ A new character gets his first stunt family for free. Because every family extra
 There are two stress tracks: one for personal and one for resource stress, governed by the *resist* and *support* skills respectively. 
 
 ### Milestones
-Rewriting one stunt includes moving a stunt to another family
+Rewrite one stunt includes moving a stunt to another family
 
 ### Breakthroughs
 Another action applies to a breakthrough:
