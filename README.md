@@ -157,7 +157,7 @@ Narrative license and stunt families already cover most of these cases, which me
   Defend against an action by evading its effects.
 
 ### Ambiguous actions
-Every skill in the list has a mirror: one governed by power, one by mastery. If it is ambiguous which applies to a stated action *(like short sword use)*, you can use the highest of the two.
+Every skill in the list has a mirror: one governed by power, one by mastery. If it is ambiguous which applies to a stated action *(like a short sword attack)*, you can use the highest of the two.
 
 ### Challenges
 Since skills are tied to specific types of actions, they might turn one roll skill checks in core Fates into consecutive ones / challenges in F&P. Use these as opportunities for narrative instead of extra busywork. If some become routine and lack tension, suggest the player make it a bonus stunt on the higher skill, or offer the table to make it a free swap stunt.
