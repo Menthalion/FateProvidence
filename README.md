@@ -188,7 +188,7 @@ Every skill in the list has a mirror: one governed by power, one by mastery. If 
 
 ## Creation and Progression
 
-Character creation and progression is identical to the core Fates, except a new character gets two extra refresh point that needs to be spent directly on stunts / stunt families: one point at character creation, the other at the first major milestone.
+Character creation and progression is identical to the core Fates, except a new character gets two extra refresh points that needs to be spent directly on stunts / stunt families: one point at character creation, the other at the first major milestone.
 
 Stress track capacity for personal and resource stress are governed by the *resist* and *support* skills respectively.
 
