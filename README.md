@@ -228,18 +228,18 @@ A new action can be performed at a breakthrough:
 
 The skill list originated in an experiment with a multi-column Fate, with an act and origin column:
 
-| Act     | Origin   |
-| ------- | -------- |
-| Observe | Brawn    |
-| Achieve | Grace    |
-| Improve | Data     |
-| Undo    | Logic    |
-| Endure  | Presence |
-|         | Tact     |
+| Act       | Origin   |
+| --------- | -------- |
+| Observe   | Brawn    |
+| Achieve   | Grace    |
+| Improve   | Data     |
+| Undo      | Logic    |
+| Endure    | Presence |
+| ~~Yield~~ | Tact     |
 
-Multi-column progression math or a using the cross-product 30 item skill list resulted in too much crunch.
+Multi-column progression math or using the cross-product 36 item skill list resulted in too much crunch.
 
-Splitting up the origin column into realm (*material, conceptual, spiritual*) and style (*power, mastery*) columns made it possible to abstract away most of the realm axis with the use of narrative license. This left only the act column and style column cross-product for a total of 10 skills.
+Splitting up the origin column into realm (*material, conceptual, spiritual*) and style (*power, mastery*) columns made it possible to abstract away most of the realm axis with the use of narrative license. This left only a reduced act column and style column cross-product for a total of 10 skills.
 
 | Act     | Power   | Mastery |
 | ------- | ------- | ------- |
@@ -263,6 +263,6 @@ The original table and axes can still be useful as categorization for scoping st
 
 ### Copyright
 
-This work is developed, authored and edited by Menthalion, and is licensed under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
+This work is developed, authored and edited by [Menthalion](https://github.com/Menthalion/FateProvidence), and is licensed under the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
 
 This work is based on Fate Core System and Fate Accelerated Edition  (found at http://www.faterpg.com/), products of Evil Hat Productions,  LLC, developed, authored, and edited by Leonard Balsera, Brian Engard,  Jeremy Keller, Ryan Macklin, Mike Olson, Clark Valentine, Amanda  Valentine, Fred Hicks, and Rob Donoghue, and licensed for our use under  the [Creative Commons Attribution 3.0 Unported license](http://creativecommons.org/licenses/by/3.0/).
