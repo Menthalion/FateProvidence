@@ -5,7 +5,7 @@
 
 
 ## Rationale
-Fate & Providence (F&P) is a universal skill variant designed to fall between Fate Condensed skills and Fate Accelerated approaches. It is intended to respect Fate philosophy, be setting agnostic and symmetrical. This manual will only cover the differences between F&P and Fate Condensed.
+Fate & Providence (F&P) is a universal skill variant designed to fall between Fate Condensed skills and Fate Accelerated approaches. It is intended to respect Fate philosophy, be setting agnostic, flexible and symmetrical. This manual will only cover the differences between F&P and Fate Condensed.
 
 
 
