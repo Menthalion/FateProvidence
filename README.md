@@ -52,8 +52,7 @@ Rule changing stunts work mostly identical to Fate Condensed except for:
 
 #### Using an action with a skill that isn’t normally used with it
 
-Narrative license and stunt families already cover most of these cases, which means a bonus-granting skill could be used for more specific situations.
-
+Narrative license and stunt families already cover most of these cases, which means a bonus-granting skill would be superior in specific situations.
 
 
 ## Skills
@@ -168,7 +167,7 @@ For teamwork to apply, both characters need to have narrative license to use a s
 
 ## Creation and progression
 
-Character creation and progression follow Fate Condensed like the rest of the rules except for the following 
+Character creation and progression follow Fate Condensed like the rest of the rules except for the following:
 
 ### Stunt families
 
@@ -178,7 +177,7 @@ A new character gets his first stunt family for free. Because every family extra
 There are two stress tracks: one for personal and one for resource stress, governed by the *resist* and *support* skills respectively. 
 
 ### Milestones
-Rewrite one stunt includes moving a stunt to another family
+Rewrite one stunt includes moving a stunt to another family.
 
 ### Breakthroughs
 Another action applies to a breakthrough:
