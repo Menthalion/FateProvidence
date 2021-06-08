@@ -226,7 +226,7 @@ A new action can be performed at a breakthrough:
 
 *optional information*
 
-The skill list originated in an experiment with a multi-column Fate, with an act and origin column:
+The skill list originated in an experiment with two-column Fate, with an act and origin column:
 
 | Act       | Origin   |
 | --------- | -------- |
@@ -237,7 +237,7 @@ The skill list originated in an experiment with a multi-column Fate, with an act
 | Endure    | Presence |
 | ~~Yield~~ | Tact     |
 
-Multi-column progression math or using the cross-product 36 item skill list resulted in too much crunch.
+Two-column progression math or using the cross-product 36 item skill list resulted in too much crunch.
 
 Splitting up the origin column into realm (*material, conceptual, spiritual*) and style (*power, mastery*) columns made it possible to abstract away most of the realm axis with the use of narrative license. This left only a reduced act column and style column cross-product for a total of 10 skills.
 
