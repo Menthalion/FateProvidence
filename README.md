@@ -35,7 +35,7 @@ If narrative license is partly applicable the skill rank may be used, but
 
 ### Stunt families
 
-There is no direct relationship between stunts and skills / approaches in F&P like in Fate Condensed. This adds more flexibility in skill use, but demands stunts to have a defined narrative scope.
+There is no direct relationship between stunts and skills in F&P like in Fate Condensed. This adds more flexibility in skill use, but demands stunts to have a defined narrative scope.
 
 F&P uses Fate Core [stunt families](https://fate-srd.com/fate-core/building-stunts#stunt-families) for this: every stunt must be part of a family.  The stunt family grants narrative license, but cannot be invoked and does not grant bonusses.
 
