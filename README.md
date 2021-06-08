@@ -192,7 +192,7 @@ Every skill in the list has a mirror: one governed by power, one by mastery. If 
 
 ### Challenges
 
-Since skills are tied to specific types of actions, they might turn one roll skill checks in core Fates into consecutive ones / challenges in F&P. Use these as opportunities for narrative instead of extra busywork. If some become routine and lack tension, suggest either the player make it a bonus stunt tied to the higher skill, or offer the table to make it a free swap stunt.
+Since skills are tied to specific types of actions, they might turn one roll skill checks in core Fates into consecutive ones / challenges in F&P. Use these as opportunities for narrative instead of extra busywork. If some become routine and lack tension, suggest either the player make it a bonus-granting  +2 stunt tied to the higher skill, or offer the table to make it a free swap stunt only tied to the higher skill.
 
 ### Teamwork
 
