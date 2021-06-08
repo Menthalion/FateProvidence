@@ -5,6 +5,7 @@
 
 
 ## Rationale
+
 Fate & Providence (F&P) is a universal skill variant designed to fall between Fate Condensed skills and Fate Accelerated approaches. It is intended to respect Fate philosophy, be setting agnostic, flexible and symmetrical. This manual will only cover the differences between F&P and Fate Condensed.
 
 
@@ -13,7 +14,7 @@ Fate & Providence (F&P) is a universal skill variant designed to fall between Fa
 
 ### Scores
 
-The basis of F&P is a list of 10 skills, which cover all possible actions in a flexible and proactive way. Their starting scores are identical to Fate Condensed:
+The basis of F&P is a list of 10 skills, which should cover all possible actions. Their starting scores are identical to Fate Condensed:
 
 - one great/+4 skill
 - two good/+3 skills
@@ -22,6 +23,7 @@ The basis of F&P is a list of 10 skills, which cover all possible actions in a f
 - no mediocre/+0 skills
 
 ### Narrative license
+
 To decide if someone can use the skill rank in a certain context, it needs a narrative license check: does the described action match the user's aspects / stunts ? If so use the skill rank, if not use a score of mediocre/+0 instead.
 
 If narrative license is partly applicable the skill rank may be used, but
@@ -32,19 +34,22 @@ If narrative license is partly applicable the skill rank may be used, but
 ## Stunts
 
 ### Stunt families
-Because of narrative license, there is no direct relationship between stunts and skills / approaches like in Fate Condensed. This adds more flexibility in skill use, but demands a defined narrative scope for them.
 
-F&P uses Fate Core [stunt families](https://fate-srd.com/fate-core/building-stunts#stunt-families) for this: every stunt needs to be part of a family to define their scope.  A stunt family cannot be invoked, and does not grant bonusses itself.
+There is no direct relationship between stunts and skills / approaches in F&P like in Fate Condensed. This adds more flexibility in skill use, but demands stunts to have a defined narrative scope.
 
-Aspects can not be used as a skill family, since aspects loss or change would conflict with stunt development. Aspects are also encouraged to be combinations, while stunt families should be very broad but distinct entities. Stunt families can mirror partial aspects to apply stunts to.
+F&P uses Fate Core [stunt families](https://fate-srd.com/fate-core/building-stunts#stunt-families) for this: every stunt must be part of a family.  The stunt family grants narrative license, but cannot be invoked and does not grant bonusses.
 
-> Brian the Monster Slaying Accountant has narrative license to use his skill ranks when Monster Slaying or Accounting. When he wants to add a stunt that has to do with Accounting, he needs to create a stunt family for it first.
+Aspects can not be used as a skill family, since aspects loss or change would conflict with stunt development. Aspects are also encouraged to be combinations, while stunt families should be very broad but distinct entities. Stunt families can mirror distinct partial aspects.
+
+> Brian the Monster Slaying Accountant has narrative license to use his skill ranks when Monster Slaying or Accounting. When the player wants to add an Accounting based stunt to the character, he needs to create an Accounting stunt family first.
 
 #### Stunt family limit tracker
-Stunt families can have a point tracker to limit the use of specific skills belonging to the family. The description of these skills should include the limit cost per use. The limit tracker should have a capacity and contain a description of the consequences when filled up, as well as how points can be replenished.
+
+Stunt families can have a point tracker to limit the use of specific skills belonging to the family. The description of these skills should include the point cost per use. The tracker should contain a description of the consequences when filled up, as well as how points can be replenished.
 
 ### Broad stunts
-Broad stunts give a +1 bonus on actions within a specified scope that covers a sixth of the family scope at most. Broad skill bonuses do not stack with bonus-granting skills or other broad stunts.
+
+Broad stunts give a +1 bonus on actions within a specified scope that covers a sixth of the family scope at most. Broad skill bonuses do not stack with more specific bonus-granting skills or other broad stunts.
 
 ### Rule-changing stunts
 
@@ -63,37 +68,48 @@ Narrative license and stunt families already cover most of these cases, which me
 
 *observe by power: spot / scan / empathize*
 
--  ###### Overcome
+- ###### Overcome
+
   In passing notice the presence or superficial state of a target. Only roll when failure or success are equally interesting.
 
 - ###### Defend
+
   Notice covert 'create an advantage' actions.
 
 ##### Inspect 
+
 *observe by mastery: search / study / analyze*
 
 - ######  Overcome
+
   Interact with a target or its situation to reveal information or an aspect.
 
 - ######  Create an advantage
+
   Interact with a target or its situation to reveal a structural or situational strength or weakness.
 
 ##### Apply
+
 *achieve by power: exert / know / charm*
 
 - ###### Overcome
+
   Surmount an obstacle by applying force, without degrading its structure or situation.
 
 - ###### Create an advantage
+
   Improve your situation by applying force without degrading another's structure or situation.
 
 ##### Handle
+
 *achieve by mastery: maneuver / reason / influence*
 
 - ###### Overcome
+
   Surmount an obstacle by applying skill, without degrading its structure or situation.
 
 - ###### Create an advantage
+
   Improve your situation by skill, without degrading another's structure or situation.
 
 ##### Support
@@ -101,12 +117,15 @@ Narrative license and stunt families already cover most of these cases, which me
 *improve by power: reinforce / source / rally*
 
 - ###### Overcome
-  Introduce an already existing target from supplies.  Extra or lacking shifts influence price, quality or time.
+
+  Introduce an already existing fact / extra from supplies.  Extra or lacking shifts influence price, quality or time.
 
 - ###### Create an advantage
+
   Improve a target's structure or situation by applying supplies to it.
 
 - ###### Special
+
   Determines the amount of resource stress boxes by offset (default: 2) + resist skill
 
 ##### Develop
@@ -114,11 +133,13 @@ Narrative license and stunt families already cover most of these cases, which me
 *improve by mastery: craft / plan / counsel*
 
 - ###### Overcome
-  Create a new or original target. Lacking time and components / conditions influence difficulty.
-  
+
+  Create a new or original fact / extra. Lacking time and components / conditions influence difficulty.
+
   Restore the structure of / remove a condition on a target.
-  
+
 - ######   Create an advantage
+
   Improve target's structure or situation by skillfully modifying it.
 
 ##### Force
@@ -126,9 +147,11 @@ Narrative license and stunt families already cover most of these cases, which me
 *undo by power: assault / cite / coerce*
 
 - ###### Attack
+
   Degrade the structure of a target by force.
 
 - ###### Create an advantage
+
   Degrade the situation of a target by force.
 
 ##### Control
@@ -136,33 +159,43 @@ Narrative license and stunt families already cover most of these cases, which me
 *undo by mastery: aim / argue / deceive*
 
 - ###### Attack
+
   Degrade the structure of a target by skill.
 
 - ###### Create an advantage
+
   Degrade the situation of a target by skill. Can be done covertly.
 
 ##### Resist
+
 *endure by power: block / focus / brave*
 
 - ###### Defend
+
   Defend against an action by withstanding its effects. If the effect is shifts of stress, a proxy *(like a shield)* is needed to absorb them.
 
 - ###### Special
+
   Determines the amount of personal stress boxes by offset (default: 2) + resist skill.
 
 ##### Evade
+
 *endure by mastery: dodge / disprove / reject*
 
 - ###### Defend
+
   Defend against an action by evading its effects.
 
 ### Ambiguous actions
+
 Every skill in the list has a mirror: one governed by power, one by mastery. If it is ambiguous which applies to a stated action *(like a short sword attack)*, you can use the highest of the two.
 
 ### Challenges
-Since skills are tied to specific types of actions, they might turn one roll skill checks in core Fates into consecutive ones / challenges in F&P. Use these as opportunities for narrative instead of extra busywork. If some become routine and lack tension, suggest the player make it a bonus stunt on the higher skill, or offer the table to make it a free swap stunt.
+
+Since skills are tied to specific types of actions, they might turn one roll skill checks in core Fates into consecutive ones / challenges in F&P. Use these as opportunities for narrative instead of extra busywork. If some become routine and lack tension, suggest either the player make it a bonus stunt tied to the higher skill, or offer the table to make it a free swap stunt.
 
 ### Teamwork
+
 For teamwork to apply, both characters need to have narrative license to use a skill. If the narrative licenses of participants are in opposition *(like a faith healer assisting a surgeon)*, the table decides.
 
 ## Creation and progression
@@ -171,21 +204,26 @@ Character creation and progression follow Fate Condensed like the rest of the ru
 
 ### Stunt families
 
-A new character gets his first stunt family for free. Because every family extra increases access to all ranked skills, they need to be bought. The second family costs 2 refresh, the third and last one costs 4.
+A new character gets his first stunt family for free. Every extra stunt family needs to be bought: the second costs 2 refresh, the third and final costs 4.
 
 ### Stress tracks
-There are two stress tracks: one for personal and one for resource stress, governed by the *resist* and *support* skills respectively. 
+
+There are two stress tracks: one for personal and one for resource stress, governed by a default (+2) with added *resist* and *support* skill ranks respectively, up to a maximum of 6. 
 
 ### Milestones
-Rewrite one stunt includes moving a stunt to another family.
+
+`Rewrite one stunt` includes moving a stunt to another family.
 
 ### Breakthroughs
-Another action applies to a breakthrough:
-Rewrite a stunt family that does not contain any stunts, if you care to.
+
+A new action can be performed at a breakthrough:
+
+- Rewrite a stunt family that does not contain any stunts, if you care to.
 
 ## Addenda
 
 ### Evolution
+
 *optional information*
 
 The skill list originated in an experiment with a multi-column Fate, with an act and origin column:
