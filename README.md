@@ -32,9 +32,11 @@ If narrative license is partly applicable the skill rank may be used, but
 - On opposed actions the opposition will get a boost, which can be compelled for free once. The boost can be negated by spending a fate point.
 
 Narrative license increases gameplay diversity in several ways
+
 - Background like aspects and stunt families define what your character does most of the time, skills define the approach they prefer doing it.
 
-  While a boxer and a lawyer with a great/+4 Force rank can be considered formidably combative, they won't stand a chance on the other's turf.  
+  While a boxer and a lawyer with a great/+4 Force rank can be considered formidably combative, they won't stand a chance on the other's turf.
+  
 - Even though a character can use skill ranks in his chosen field, he won't be equally good in all aspects
   
   Scientists should do more than just roll Lore all the time: He could need Improve to teach his field, Control to debate theories, Notice to spot an anomaly.
