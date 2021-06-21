@@ -232,10 +232,11 @@ A new action can be performed at a breakthrough:
 ## Addenda
 
 ### Evolution
-
 *optional information*
 
-The skill list originated in an experiment with two-column Fate, with an act and origin column:
+#### Two column origin
+
+The skill list originated in a two-column Fate, with an act and origin column:
 
 | Act       | Origin   |
 | --------- | -------- |
@@ -246,7 +247,13 @@ The skill list originated in an experiment with two-column Fate, with an act and
 | Uphold    | Presence |
 | ~~Yield~~ | Tact     |
 
-Two-column progression math or using the cross-product 36 item skill list resulted in too much crunch.
+Each column gets assigned `4 3 2 1 0 0` ranks. Every action has an act and an origin component, and is restricted to the lowest of the two scores. When progressing ranks within a column, the maximum difference between adjacent ranks can be just one. Stunt families are not necessary.
+
+Enhance is intended for improving targets and creating new ones from scratch, and Yield should be used for drawing from reserves, like resources and contacts, or capacity based overcome actions and contests.
+
+#### To a skill list system
+
+Some people founnd the above two column list too large, or taking the minimum of two scores contrary to the Fate mindset.
 
 Splitting up the origin column into realm (*material, conceptual, spiritual*) and style (*power, mastery*) columns made it possible to abstract away most of the realm axis with the use of narrative license. This left only a reduced act column and style column cross-product for a total of 10 skills.
 
