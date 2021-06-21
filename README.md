@@ -35,11 +35,11 @@ Narrative license can increase gameplay diversity in several ways:
 
 - Background like aspects and stunt families define what your character does most of the time, skills define the approach they prefer doing it.
 > While a boxer and a lawyer with a great/+4 Force rank can be considered formidably combative, they won't stand a chance on the other's turf.
-  
+
 - Even though a character can use skill ranks in his chosen field, he won't be equally good in all aspects.
-> Scientists should do more than just roll Lore all the time: He could need Improve to teach his field, Control to debate theories, Notice to spot an anomaly.
-  No rule-changing stunts necessary. He won't be able to do all just as well, making for more interesting gameplay.
-  
+> Scientists should do more than just roll Lore all the time: He can Enhance to teach his field, Control to debate theories, Notice to spot an anomaly.
+> No rule-changing stunts necessary. He won't be able to do all just as well though, making for more interesting gameplay.
+
 ## Stunts
 
 ### Stunt families
@@ -107,7 +107,7 @@ Narrative license and stunt families cover most of these cases, which means a bo
 
 - ###### Create an advantage
 
-  Improve your situation by applying force without degrading another's structure or situation.
+  Enhance your situation by applying force without degrading another's structure or situation.
 
 ##### Handle
 
@@ -119,11 +119,11 @@ Narrative license and stunt families cover most of these cases, which means a bo
 
 - ###### Create an advantage
 
-  Improve your situation by skill, without degrading another's structure or situation.
+  Enhance your situation by skill, without degrading another's structure or situation.
 
 ##### Support
 
-*improve by power: reinforce / source / rally*
+*enhance by power: reinforce / source / rally*
 
 - ###### Overcome
 
@@ -131,7 +131,7 @@ Narrative license and stunt families cover most of these cases, which means a bo
 
 - ###### Create an advantage
 
-  Improve a target's structure or situation by applying supplies to it.
+  Enhance a target's structure or situation by applying supplies to it.
 
 - ###### Special
 
@@ -139,7 +139,7 @@ Narrative license and stunt families cover most of these cases, which means a bo
 
 ##### Develop
 
-*improve by mastery: craft / plan / counsel*
+*enhance by mastery: craft / plan / counsel*
 
 - ###### Overcome
 
@@ -149,11 +149,11 @@ Narrative license and stunt families cover most of these cases, which means a bo
 
 - ######   Create an advantage
 
-  Improve target's structure or situation by skillfully modifying it.
+  Enhance target's structure or situation by skillfully modifying it.
 
 ##### Force
 
-*undo by power: assault / cite / coerce*
+*impair by power: assault / cite / coerce*
 
 - ###### Attack
 
@@ -165,7 +165,7 @@ Narrative license and stunt families cover most of these cases, which means a bo
 
 ##### Control
 
-*undo by mastery: aim / argue / deceive*
+*impair by mastery: aim / argue / deceive*
 
 - ###### Attack
 
@@ -177,7 +177,7 @@ Narrative license and stunt families cover most of these cases, which means a bo
 
 ##### Resist
 
-*endure by power: block / focus / brave*
+*uphold by power: block / focus / brave*
 
 - ###### Defend
 
@@ -189,7 +189,7 @@ Narrative license and stunt families cover most of these cases, which means a bo
 
 ##### Evade
 
-*endure by mastery: dodge / disprove / reject*
+*uphold by mastery: dodge / disprove / reject*
 
 - ###### Defend
 
@@ -241,9 +241,9 @@ The skill list originated in an experiment with two-column Fate, with an act and
 | --------- | -------- |
 | Observe   | Brawn    |
 | Achieve   | Grace    |
-| Improve   | Data     |
-| Undo      | Logic    |
-| Endure    | Presence |
+| Enhance   | Data     |
+| Impair    | Logic    |
+| Uphold    | Presence |
 | ~~Yield~~ | Tact     |
 
 Two-column progression math or using the cross-product 36 item skill list resulted in too much crunch.
@@ -254,9 +254,9 @@ Splitting up the origin column into realm (*material, conceptual, spiritual*) an
 | ------- | ------- | ------- |
 | Observe | Notice  | Inspect |
 | Achieve | Apply   | Handle  |
-| Improve | Support | Create  |
-| Undo    | Force   | Control |
-| Endure  | Resist  | Evade   |
+| Enhance | Support | Create  |
+| Impair  | Force   | Control |
+| Uphold  | Resist  | Evade   |
 
 The original table and axes can still be useful as categorization for scoping stunts. The canonical names for the original 30 skills are still in use as skill  examples in the format *act* by *style: material / conceptual / spiritual*
 
@@ -266,9 +266,9 @@ The original table and axes can still be useful as categorization for scoping st
 |             | **Brawn**  | **Grace**  |   **Data**   |  **Logic**   | **Presence** |  **Tact**   |
 | **Observe** |    spot    |   search   |     scan     |    study     |  empathize   |   analyze   |
 | **Achieve** |   exert    |  maneuver  |     know     |    reason    |    charm     |  influence  |
-| **Improve** | reinforce  |   craft    |    source    |     plan     |    rally     |   counsel   |
-|    **Undo** |  assault   |    aim     |     cite     |    argue     |    coerce    |   deceive   |
-|  **Endure** |   block    |   dodge    |    focus     |   disprove   |    brave     |   reject    |
+| **Enhance** | reinforce  |   craft    |    source    |     plan     |    rally     |   counsel   |
+|  **Impair** |  assault   |    aim     |     cite     |    argue     |    coerce    |   deceive   |
+|  **Uphold** |   block    |   dodge    |    focus     |   disprove   |    brave     |   reject    |
 
 ### Copyright
 
