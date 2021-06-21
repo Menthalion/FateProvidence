@@ -253,7 +253,7 @@ Enhance is intended for improving targets and creating new ones from scratch, an
 
 #### To a skill list system
 
-Some people founnd the above two column list too large, or taking the minimum of two scores contrary to the Fate mindset.
+Some people found the above two column list too large, or taking the minimum of two scores contrary to the Fate mindset.
 
 Splitting up the origin column into realm (*material, conceptual, spiritual*) and style (*power, mastery*) columns made it possible to abstract away most of the realm axis with the use of narrative license. This left only a reduced act column and style column cross-product for a total of 10 skills.
 
