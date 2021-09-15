@@ -233,7 +233,7 @@ A new action can be performed at a breakthrough:
 
 ### The Columns
 
-An simpler variant without Skill Families is this predecessor two-column variant Fate Providence:
+An simpler variant without Skill Families is this predecessor two-column variant of Fate Providence:
 
 | Act       | Origin   |
 | --------- | -------- |
