@@ -1,0 +1,377 @@
+{
+    "name": "Fate Providence Tabbed Template",
+    "group": "Fate & Providence",
+    "lastUpdated": 1631732006,
+    "wide": false,
+    "pages": [{
+            "id": "a7bbcedc-fcfa-4fa9-bc6c-6ca1c67570cd",
+            "label": "character",
+            "sections": {
+                "left": [{
+                        "id": "951e9fe6-9e6d-4b1a-b797-c3f9d0dd6a3d",
+                        "blocks": [{
+                                "id": "2964c25b-8ecf-46a0-b92f-6c96c593c601",
+                                "type": "Text",
+                                "meta": {},
+                                "label": "High Concept",
+                                "value": ""
+                            }, {
+                                "id": "f06fc99a-46b6-4204-a93a-448bb454b43d",
+                                "type": "Text",
+                                "meta": {},
+                                "label": "Trouble",
+                                "value": ""
+                            }, {
+                                "id": "bcbc232b-91af-468e-8390-79f77ef43b1f",
+                                "type": "Text",
+                                "meta": {},
+                                "label": "Relationship",
+                                "value": ""
+                            }, {
+                                "id": "9b716d49-9a90-4c59-af07-cfb3e275b59a",
+                                "type": "Text",
+                                "meta": {},
+                                "label": "Other Aspect",
+                                "value": ""
+                            }, {
+                                "id": "5c363c73-0d30-4137-9962-92bb65e92979",
+                                "type": "Text",
+                                "meta": {},
+                                "label": "Other Aspect",
+                                "value": ""
+                            }
+                        ],
+                        "label": "Aspects",
+                        "visibleOnCard": true
+                    }, {
+                        "id": "38a03ddf-82c7-40f4-a988-4682b97bbb2e",
+                        "label": "extras<br>",
+                        "blocks": [{
+                                "id": "6b3cf4e4-0a95-4e4f-8349-bf0ab3df5099",
+                                "label": "extra #1",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {}
+                            }, {
+                                "id": "79d18c13-f5f3-4c38-93df-c609d37404b8",
+                                "label": "Extra #2",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {}
+                            }
+                        ]
+                    }, {
+                        "id": "3e6d3588-da82-4da3-878e-4f6f5f1d5556",
+                        "label": "Notes",
+                        "blocks": [{
+                                "id": "d65216d3-1dcb-4837-8600-5de7f71d439b",
+                                "label": "Text",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {}
+                            }, {
+                                "id": "ddde27c8-79ff-4558-99e2-5f9aea3f283b",
+                                "label": "Fate & Providence",
+                                "type": "Link",
+                                "meta": {
+                                    "hasDisplayName": true
+                                },
+                                "value": "https://github.com/Menthalion/FateProvidence"
+                            }
+                        ]
+                    }
+                ],
+                "right": [{
+                        "id": "d96a5feb-51f9-47cf-9ec2-0df3f54dfce5",
+                        "blocks": [{
+                                "id": "d383d0be-4fed-4e6f-b976-f1b8272a0d4a",
+                                "meta": {
+                                    "isMainPointCounter": true,
+                                    "max": "3"
+                                },
+                                "type": "PointCounter",
+                                "label": "Fate Points",
+                                "value": "3"
+                            }
+                        ],
+                        "label": "Fate Points"
+                    }, {
+                        "id": "9b0b7733-8df3-44c4-97a3-033560718487",
+                        "blocks": [{
+                                "id": "33473f35-86d4-4617-811b-5b13eadc9a1d",
+                                "type": "SlotTracker",
+                                "meta": {
+                                    "helperText": "# of slots: 2 + Resist skill !&gt; 6<br>"
+                                },
+                                "label": "personal",
+                                "value": [{
+                                        "label": "1",
+                                        "checked": false
+                                    }, {
+                                        "label": "1",
+                                        "checked": false
+                                    }
+                                ]
+                            }, {
+                                "id": "2d598b9a-4635-46e4-be58-63141cd8d027",
+                                "label": "resource",
+                                "type": "SlotTracker",
+                                "meta": {
+                                    "helperText": "# of slots: 2 + Support skill !&gt; 6"
+                                },
+                                "value": [{
+                                        "label": "1",
+                                        "checked": false
+                                    }, {
+                                        "label": "1",
+                                        "checked": false
+                                    }
+                                ]
+                            }
+                        ],
+                        "label": "Stress"
+                    }, {
+                        "id": "e9c0679d-05a5-4713-99f0-afc37502d4b5",
+                        "blocks": [{
+                                "id": "733940cf-7771-4c95-bbd6-b4c75a1590bc",
+                                "label": "mild",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {
+                                    "checked": false
+                                }
+                            }, {
+                                "id": "540b5dff-db50-4d29-9460-347d41fae49b",
+                                "label": "moderate",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {
+                                    "checked": false
+                                }
+                            }, {
+                                "id": "592f20ae-6f55-425f-bce4-9a730e27275d",
+                                "label": "severe",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {
+                                    "checked": false
+                                }
+                            }
+                        ],
+                        "label": "Consequences<br>"
+                    }
+                ]
+            }
+        }, {
+            "id": "a457e3aa-71ee-462e-9282-622fc3d94d5f",
+            "label": "skills",
+            "sections": {
+                "left": [{
+                        "id": "34d01a5a-74df-4eab-888a-7e0e6284b308",
+                        "blocks": [{
+                                "id": "53bb1eb1-1dea-4325-9c5d-8203dafa3c8d",
+                                "label": "notice",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "helperText": "observe: spot / scan / empathize",
+                                    "commands": ["4dF"]
+                                }
+                            }, {
+                                "id": "cc9ccce8-05ff-4805-955e-93ba4671fe35",
+                                "label": "Apply",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "helperText": "achieve: exert / recall / bond",
+                                    "commands": ["4dF"]
+                                }
+                            }, {
+                                "id": "af48b423-4091-4723-adc7-c11dfbedcf47",
+                                "label": "support",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "helperText": "improve: reinforce / source / rally",
+                                    "commands": ["4dF"]
+                                }
+                            }, {
+                                "id": "5024dc69-0271-4c8e-b76b-9edb07de60d6",
+                                "label": "force",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "helperText": "undo: assault / cite / coerce",
+                                    "commands": ["4dF"]
+                                }
+                            }, {
+                                "id": "83862894-dcab-494f-a5c0-3e486ed2b773",
+                                "label": "resist",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "helperText": "endure: block / focus / brave",
+                                    "commands": ["4dF"]
+                                }
+                            }, {
+                                "id": "50e1c0d2-8c55-4131-af1b-06bb90621988",
+                                "label": "Power",
+                                "type": "Separator",
+                                "meta": {
+                                    "hasLabel": false,
+                                    "helperText": "power: brawn / data / presence"
+                                },
+                                "value": ""
+                            }
+                        ],
+                        "label": "power<br>",
+                        "visibleOnCard": true
+                    }, {
+                        "id": "23cd63a7-bbb6-48e1-bbdd-c352987a3b46",
+                        "blocks": [{
+                                "id": "9613a874-5427-498e-ab77-3dce01555607",
+                                "label": "stunt #1",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {}
+                            }, {
+                                "id": "360f0db5-c242-4a8a-a7a1-29dc349da7ee",
+                                "label": "stunt #2",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {}
+                            }, {
+                                "id": "4ff59280-a7eb-46df-9c49-04152e5fb34e",
+                                "label": "family limit",
+                                "type": "SlotTracker",
+                                "meta": {},
+                                "value": [{
+                                        "label": "",
+                                        "checked": false
+                                    }, {
+                                        "label": "",
+                                        "checked": false
+                                    }, {
+                                        "label": "",
+                                        "checked": false
+                                    }, {
+                                        "label": "",
+                                        "checked": false
+                                    }, {
+                                        "label": "",
+                                        "checked": false
+                                    }
+                                ]
+                            }
+                        ],
+                        "label": "stunt family #1"
+                    }
+                ],
+                "right": [{
+                        "id": "f4ab8c05-477f-4680-aa82-f13a8e26ec4d",
+                        "blocks": [{
+                                "id": "0be71792-6032-490d-af73-66badb1f7d4f",
+                                "label": "inspect",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "helperText": "observe: search / study / analyze",
+                                    "commands": ["4dF"]
+                                }
+                            }, {
+                                "id": "db0a00aa-ba1a-4378-9d78-16b5cd0f39a0",
+                                "label": "handle",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "helperText": "achieve: maneuver / reason / influence",
+                                    "commands": ["4dF"]
+                                }
+                            }, {
+                                "id": "4e037ce3-7012-43ab-a3fb-7128820828f0",
+                                "label": "develop",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "helperText": "improve: craft / plan / counsel<br>",
+                                    "commands": ["4dF"]
+                                }
+                            }, {
+                                "id": "b1924eb2-1c2b-4259-98b9-9c7ee7096820",
+                                "label": "control",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "helperText": "undo: aim / argue / deceive<br>",
+                                    "commands": ["4dF"]
+                                }
+                            }, {
+                                "id": "6b4563c4-dc84-4632-becd-a1498c2d2747",
+                                "label": "evade",
+                                "type": "Skill",
+                                "value": "0",
+                                "meta": {
+                                    "helperText": "endure: dodge / disprove / reject<br>",
+                                    "commands": ["4dF"]
+                                }
+                            }, {
+                                "id": "384ad6a1-75b7-4112-a509-c34e2995d593",
+                                "label": "MASTERY<br>",
+                                "type": "Separator",
+                                "meta": {
+                                    "hasLabel": false,
+                                    "helperText": "mastery: grace / logic / tact"
+                                },
+                                "value": ""
+                            }
+                        ],
+                        "label": "mastery<br>",
+                        "visibleOnCard": true
+                    }, {
+                        "id": "df70af7d-cbec-442e-b2df-0863364dd607",
+                        "blocks": [{
+                                "id": "1389428e-6ec1-4edb-ac93-87c42c33ba16",
+                                "label": "stunt #1",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {}
+                            }, {
+                                "id": "42f29722-1857-4e9b-b71f-58b8cca8a569",
+                                "label": "stunt #2",
+                                "type": "Text",
+                                "value": "",
+                                "meta": {}
+                            }, {
+                                "id": "0bf30d1f-22f4-47d2-8495-b6c3dbdfa17f",
+                                "label": "family limit",
+                                "type": "SlotTracker",
+                                "meta": {},
+                                "value": [{
+                                        "label": "",
+                                        "checked": false
+                                    }, {
+                                        "label": "",
+                                        "checked": false
+                                    }, {
+                                        "label": "",
+                                        "checked": false
+                                    }, {
+                                        "label": "",
+                                        "checked": false
+                                    }, {
+                                        "label": "",
+                                        "checked": false
+                                    }
+                                ]
+                            }
+                        ],
+                        "label": "stunt family #2"
+                    }
+                ]
+            }
+        }
+    ],
+    "template": "FateCondensed",
+    "version": 4,
+    "fariType": "character"
+}
