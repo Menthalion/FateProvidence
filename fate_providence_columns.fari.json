@@ -1,7 +1,7 @@
 {
     "name": "Fate Providence Columns Template",
     "group": "Fate & Providence",
-    "lastUpdated": 1631733365,
+    "lastUpdated": 1631734586,
     "wide": false,
     "pages": [{
             "id": "a7bbcedc-fcfa-4fa9-bc6c-6ca1c67570cd",
@@ -236,7 +236,7 @@
                                 "type": "Skill",
                                 "value": "0",
                                 "meta": {
-                                    "helperText": "Physical Output",
+                                    "helperText": "Physical Power",
                                     "commands": ["4dF"]
                                 }
                             }, {
@@ -245,7 +245,7 @@
                                 "type": "Skill",
                                 "value": "0",
                                 "meta": {
-                                    "helperText": "Physical Accuracy",
+                                    "helperText": "Physical Mastery",
                                     "commands": ["4dF"]
                                 }
                             }, {
@@ -254,7 +254,7 @@
                                 "type": "Skill",
                                 "value": "0",
                                 "meta": {
-                                    "helperText": "Conceptual Output",
+                                    "helperText": "Conceptual Power",
                                     "commands": ["4dF"]
                                 }
                             }, {
@@ -263,7 +263,7 @@
                                 "type": "Skill",
                                 "value": "0",
                                 "meta": {
-                                    "helperText": "Conceptual Accuracy",
+                                    "helperText": "Conceptual Mastery",
                                     "commands": ["4dF"]
                                 }
                             }, {
@@ -272,7 +272,7 @@
                                 "type": "Skill",
                                 "value": "0",
                                 "meta": {
-                                    "helperText": "Spiritual Output",
+                                    "helperText": "Spiritual Power",
                                     "commands": ["4dF"]
                                 }
                             }, {
@@ -281,7 +281,7 @@
                                 "type": "Skill",
                                 "value": "0",
                                 "meta": {
-                                    "helperText": "Spiritual Accuracy",
+                                    "helperText": "Spiritual Mastery",
                                     "commands": ["4dF"]
                                 }
                             }
