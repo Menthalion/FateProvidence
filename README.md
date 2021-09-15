@@ -229,14 +229,11 @@ A new action can be performed at a breakthrough:
 
 - Rewrite a stunt family that does not contain any stunts, if you care to.
 
-## Addenda
+## Two column variant
 
-### Evolution
-*optional information*
+### The Columns
 
-#### Two column origin
-
-The skill list originated in a two-column Fate, with an act and origin column:
+An simpler variant without Skill Families is this predecessor two-column variant Fate Providence:
 
 | Act       | Origin   |
 | --------- | -------- |
@@ -251,7 +248,9 @@ Each column gets assigned `4 3 2 1 0 0` ranks. Every action has an act and an or
 
 Enhance is intended for restoring or improving targets. Yield should be used for introducing new state: extras, resources or contacts.
 
-#### To a skill list system
+## Evolution
+
+### To a skill list system
 
 Some people found the above two column list too large, or taking the minimum of two scores contrary to the Fate mindset.
 
