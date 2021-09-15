@@ -249,7 +249,7 @@ The skill list originated in a two-column Fate, with an act and origin column:
 
 Each column gets assigned `4 3 2 1 0 0` ranks. Every action has an act and an origin component, and is restricted to the lowest of the two scores. When progressing ranks within a column, the maximum difference between adjacent ranks can be just one. Stunt families are not necessary.
 
-Enhance is intended for creating new targets from scratch, or restoring or improving targets. Yield should be used for drawing from reserves, like resources and contacts, or capacity based overcome actions and contests.
+Enhance is intended for restoring or improving targets. Yield should be used for introducing new state: extras, resources or contacts.
 
 #### To a skill list system
 
