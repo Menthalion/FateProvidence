@@ -273,7 +273,7 @@ The original table and axes can still be useful as categorization for scoping st
 | **Observe** |    spot    |   search   |     scan     |    study     |   empathize  |   analyze   |
 | **Achieve** |    exert   |  maneuver  |     know     |    reason    |    charm     |  influence  |
 | **Enhance** |  reinforce |   craft    |    imagine   |    design    |    rally     |   counsel   |
-|  **Impair** |   assault  |    aim     |     cite     |    argue     |    coerce    |   deceive   |
+|  **Impair** |   assault  |   target   |     cite     |    argue     |    coerce    |   deceive   |
 |  **Uphold** |   block    |   dodge    |    focus     |    rebut     |    brave     |   slight    |
 |  **Yield**  |  provision |  bargain   |    source    |    infer     |    summon    |    plead    |
 
