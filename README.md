@@ -264,7 +264,7 @@ Splitting up the origin column into realm (*material, conceptual, spiritual*) an
 | Impair  | Force   | Control |
 | Uphold  | Resist  | Evade   |
 
-The original table and axes can still be useful as categorization for scoping stunts. The canonical names for the original 30 skills are still in use as skill  examples in the format *act* by *style: material / conceptual / spiritual*
+The original table and axes can still be useful as categorization for scoping stunts. The canonical names for the original 36 skills are still in use as skill  examples in the format *act* by *style: material / conceptual / spiritual*
 
 |             |  *power*   | *mastery*  |   *power*    |  *mastery*   |   *power*    |  *mastery*  |
 | ----------: | :--------: | :--------: | :----------: | :----------: | :----------: | :---------: |
