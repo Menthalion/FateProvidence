@@ -275,7 +275,7 @@ The original table and axes can still be useful as categorization for scoping st
 | **Enhance** |  reinforce |   craft    |    imagine   |    design    |    rally     |   counsel   |
 |  **Impair** |   assault  |   target   |     cite     |    argue     |    coerce    |   deceive   |
 |  **Uphold** |   block    |   dodge    |    focus     |    rebut     |    brave     |   slight    |
-|  **Yield**  |  provision |  bargain   |    source    |    infer     |    summon    |    plead    |
+|  **Yield**  |  provision |   trade    |    source    |    infer     |    summon    |  negotiate  |
 
 ### Copyright
 
