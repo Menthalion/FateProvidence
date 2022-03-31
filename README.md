@@ -271,10 +271,11 @@ The original table and axes can still be useful as categorization for scoping st
 |             | *material* | *material* | *conceptual* | *conceptual* | *spiritual*  | *spiritual* |
 |             | **Brawn**  | **Grace**  |   **Data**   |  **Logic**   | **Presence** |  **Tact**   |
 | **Observe** |    spot    |   search   |     scan     |    study     |  empathize   |   analyze   |
-| **Achieve** |   exert    |  maneuver  |     know     |    reason    |    charm     |  influence  |
-| **Enhance** | reinforce  |   craft    |    source    |     plan     |    rally     |   counsel   |
-|  **Impair** |  assault   |    aim     |     cite     |    argue     |    coerce    |   deceive   |
-|  **Uphold** |   block    |   dodge    |    focus     |   disprove   |    brave     |   reject    |
+| **Achieve** |    exert   |  maneuver  |     know     |    reason    |    charm     |  influence  |
+| **Enhance** |  reinforce |   craft    |    imagine   |    invent    |    rally     |   counsel   |
+|  **Impair** |   assault  |    aim     |     cite     |    argue     |    coerce    |   deceive   |
+|  **Uphold** |   block    |   dodge    |    focus     |     rebut    |    brave     |    scorn    |
+|  **Yield**  |  provision |  bargain   |    source    |     infer    |    summon    |    plead    |
 
 ### Copyright
 
