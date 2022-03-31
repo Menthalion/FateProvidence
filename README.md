@@ -246,7 +246,7 @@ A simpler variant without Skill Families is this predecessor two-column variant 
 
 Each column gets assigned `4 3 2 1 0 0` ranks. Every action has an act and an origin component, and is restricted to the lowest of the two scores. When progressing ranks within a column, the maximum difference between adjacent ranks can be just one. Stunt families are not necessary.
 
-Enhance is intended for restoring or improving targets. Yield should be used for introducing new state: extras, resources or contacts.
+Enhance is used for improving targets (power) or restoring targets or creating them from scratch (mastery). Yield is used for introducing new targets from reserves: extras, resources or contacts.
 
 ## Evolution
 
